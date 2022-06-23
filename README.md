@@ -74,7 +74,8 @@ public class program
 }
 ```
 ## Output:
-![image](https://user-images.githubusercontent.com/75235090/173856225-0cbf96e2-37a6-4a75-94cc-489faf7dac90.png)
+![exp10cs](https://user-images.githubusercontent.com/75234942/175276982-8fa7f66a-c028-4d70-8155-3369c5809d39.png)
+
 
 ## Result:
 Thus C# program to get student details using structure and storing it in a file in a specific path using the file stream concept is implemented successfully
