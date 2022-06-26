@@ -22,6 +22,10 @@ Pass the details of the student to the function.
 
 ## Step 6:
 File has been created and written with student details.
+<br>
+<br>
+<br>
+    
 ## Program:
 ```python
 using System;
